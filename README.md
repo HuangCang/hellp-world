@@ -1,4 +1,3 @@
-_follow
 https://bgp.he.net/country/US
 https://bgp.he.net/country/BR
 https://bgp.he.net/country/CN
