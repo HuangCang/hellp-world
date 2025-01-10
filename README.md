@@ -6,14 +6,3 @@ https://bgp.he.net/country/IN
 https://bgp.he.net/country/GB
 https://bgp.he.net/country/ID
 https://bgp.he.net/country/DE
-https://bgp.he.net/country/AU
-https://bgp.he.net/country/PL
-https://bgp.he.net/country/CA
-https://bgp.he.net/country/UA
-https://bgp.he.net/country/FR
-https://bgp.he.net/country/BD
-https://bgp.he.net/country/NL
-https://bgp.he.net/country/IT
-https://bgp.he.net/country/HK
-https://bgp.he.net/country/RO
-https://bgp.he.net/country/ES
