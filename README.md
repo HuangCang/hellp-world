@@ -31,4 +31,3 @@ https://bgp.he.net/country/AT
 https://bgp.he.net/country/NZ
 https://bgp.he.net/country/MX
 https://bgp.he.net/country/CZ
-https://bgp.he.net/country/SG
