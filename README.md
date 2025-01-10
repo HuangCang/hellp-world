@@ -17,17 +17,3 @@ https://bgp.he.net/country/IT
 https://bgp.he.net/country/HK
 https://bgp.he.net/country/RO
 https://bgp.he.net/country/ES
-https://bgp.he.net/country/AR
-https://bgp.he.net/country/JP
-https://bgp.he.net/country/CH
-https://bgp.he.net/country/KR
-https://bgp.he.net/country/TR
-https://bgp.he.net/country/SE
-https://bgp.he.net/country/VN
-https://bgp.he.net/country/ZA
-https://bgp.he.net/country/BG
-https://bgp.he.net/country/IR
-https://bgp.he.net/country/AT
-https://bgp.he.net/country/NZ
-https://bgp.he.net/country/MX
-https://bgp.he.net/country/CZ
